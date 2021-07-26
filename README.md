@@ -3,9 +3,6 @@ Toy code written for the built-in Micropython interpreter on, for example, the C
 
 Included so far:
 
-### Images
-Pictures of the calculator running the code.
-
 ### MANDELB
 Mandelbrot fractal generator, written on the calculator itself, using the built-in keyboard.  Comments were added later with a real keyboard.
 
